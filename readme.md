@@ -21,13 +21,19 @@ Searching for information can be a daunting task.
 
 
 ### Searching through academic material
+- [Google scholar](http://scholar.google.it) - ``Stand on the shoulders of giants``
+- [How to read a paper](http://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf)
+- 
 
 ### Information Gathering
 - [Powerbrowsing!](http://search.lores.eu/mala_power.htm) Search and gather information with powerbrowsing!
 - [Scrapy]()
 - [Scraping techniques]()
 
-## Organization and workflows
+## Workflows&Tools
+- mindmaps
+
+## Organization
 
 ### File Versioning
 
@@ -37,6 +43,11 @@ Searching for information can be a daunting task.
 
 
 ## Scientific writing
+- [PrettyWrite](https://github.com/phretor/pretty-write) - Practical Thesis-writing Guidelines for Master Students
+- [Chrisper](https://github.com/invernizzi/Chrisper)
+- [Academic Writing Check](https://github.com/devd/Academic-Writing-Check.git)
+- [aspell]()
+-
 
 ## Artifacts
 
@@ -60,7 +71,8 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ## License
 
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
+[![CCBYSA4](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
 
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 To the extent possible under law, _ocean has waived all copyright and
 related or neighboring rights to this work.
