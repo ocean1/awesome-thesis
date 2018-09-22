@@ -1,4 +1,5 @@
-# Awesome Thesis ☆=(ゝ･ω･)/ [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Thesis ☆=(ゝ･ω･)/ [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg?style=flat)](LICENSE.md)
+
 > A curated list of resources to help you survive your CS master thesis
 
 This curated list is accompained by the [practical tips for surviving your CS thesis](survivaltips.md).
@@ -51,6 +52,12 @@ Searching for information can be a daunting task.
 - [aspell](http://aspell.net/)
 - [Grammarly](https://www.grammarly.com/)
 
+### Latex
+- [Latex](http://latex.org/index.php) [![Latex][awesome]](https://raw.githubusercontent.com/egeerardyn/awesome-LaTeX) 
+- [CS PhD dissertation latex template](https://github.com/phretor/cs-phd-dissertation-latex-template)
+- [Latex Tutorial](https://www.um.edu.mt/__data/assets/pdf_file/0004/171373/LaTeX_Tutorial.pdf)
+- [
+
 ### Books
 - 
 
@@ -74,8 +81,3 @@ Searching for information can be a daunting task.
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
-
-
-## License
-
-[![CCBYSA4](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
