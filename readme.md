@@ -53,10 +53,10 @@ Searching for information can be a daunting task.
 - [Grammarly](https://www.grammarly.com/)
 
 ### Latex
-- [Latex](http://latex.org/index.php) [![Latex][awesome]](https://raw.githubusercontent.com/egeerardyn/awesome-LaTeX) 
+- [Latex](http://latex.org/index.php) [![Latex][awesome]](https://raw.githubusercontent.com/egeerardyn/awesome-LaTeX)
 - [CS PhD dissertation latex template](https://github.com/phretor/cs-phd-dissertation-latex-template)
 - [Latex Tutorial](https://www.um.edu.mt/__data/assets/pdf_file/0004/171373/LaTeX_Tutorial.pdf)
-- [
+- 
 
 ### Books
 - 
@@ -81,3 +81,6 @@ Searching for information can be a daunting task.
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+
+
+[awesome]:  https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
