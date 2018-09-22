@@ -73,9 +73,9 @@ Searching for information can be a daunting task.
 
 
 ## Defending your thesis
-[The best thesis defense is a good thesis offense](https://xkcd.com/1403/)
-[How to give a talk](http://www.howtogiveatalk.com/)
-[How to prepare a talk](https://www.cs.jhu.edu/~jason/advice/how-to-give-a-talk.html)
+- [The best thesis defense is a good thesis offense](https://xkcd.com/1403/)
+- [How to give a talk](http://www.howtogiveatalk.com/)
+- [How to prepare a talk](https://www.cs.jhu.edu/~jason/advice/how-to-give-a-talk.html)
 
 ### Slide-deck
 - [How to avoid death by PowerPoint](https://www.youtube.com/watch?v=Iwpi1Lm6dFo)
