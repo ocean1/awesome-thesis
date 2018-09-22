@@ -1,7 +1,7 @@
-# Pretty CS Thesis ☆=(ゝ･ω･)/ [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Thesis ☆=(ゝ･ω･)/ [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 > A curated list of resources to help you survive your CS master thesis
 
-This curated list is accompained by the awesome [practical tips for surviving your CS thesis](survivaltips.md).
+This curated list is accompained by the [practical tips for surviving your CS thesis](survivaltips.md).
 
 
 ## Contents
