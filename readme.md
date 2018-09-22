@@ -44,10 +44,16 @@ Searching for information can be a daunting task.
 
 ## Scientific writing
 - [PrettyWrite](https://github.com/phretor/pretty-write) - Practical Thesis-writing Guidelines for Master Students
+
+### Tools
 - [Chrisper](https://github.com/invernizzi/Chrisper)
 - [Academic Writing Check](https://github.com/devd/Academic-Writing-Check.git)
-- [aspell]()
--
+- [aspell](http://aspell.net/)
+- [Grammarly](https://www.grammarly.com/)
+
+### Books
+- 
+
 
 ## Artifacts
 
