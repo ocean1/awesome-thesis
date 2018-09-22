@@ -72,6 +72,3 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 ## License
 
 [![CCBYSA4](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
-
-To the extent possible under law, _ocean has waived all copyright and
-related or neighboring rights to this work.
