@@ -18,7 +18,7 @@ Searching for information can be a daunting task.
 - [+Fravia's search lores](http://search.lores.eu/indexo.htm) provides useful resources to understand how to search efficiently search for information
     - [Machine Translation](http://search.lores.eu/machine_translation.htm) Search the web in other languages
     - ["La legge dell'oca" a web-searching rule](http://search.lores.eu/ocadelcairo.htm) proving a direct relation between "findability" and "celebrity" of a target
-- [google dorking](https://exposingtheinvisible.org/guides/google-dorking/)
+- [google dorks](https://exposingtheinvisible.org/guides/google-dorking/)
 
 
 ### Searching through academic material
@@ -32,9 +32,9 @@ Searching for information can be a daunting task.
 - [Scraping techniques]()
 
 ## Workflows&Tools
+- [Effective Meeting Minutes](https://gaiku.io/blog/effective-meeting-minutes)
 - mindmaps
 
-## Organization
 
 ### File Versioning
 
@@ -42,6 +42,8 @@ Searching for information can be a daunting task.
 
 ### Backups
 
+## Writing
+- [Harvard College Writing Center Writing Resources](https://writingcenter.fas.harvard.edu/pages/resources)
 
 ## Scientific writing
 - [PrettyWrite](https://github.com/phretor/pretty-write) - Practical Thesis-writing Guidelines for Master Students
@@ -56,7 +58,7 @@ Searching for information can be a daunting task.
 - [Latex](http://latex.org/index.php) [![Latex][awesome]](https://raw.githubusercontent.com/egeerardyn/awesome-LaTeX)
 - [CS PhD dissertation latex template](https://github.com/phretor/cs-phd-dissertation-latex-template)
 - [Latex Tutorial](https://www.um.edu.mt/__data/assets/pdf_file/0004/171373/LaTeX_Tutorial.pdf)
-- 
+- [Tikz](http://www.texample.net/tikz/) [![Tikz][awesome]](https://github.com/xiaohanyu/awesome-tikz)
 
 ### Books
 - 
@@ -72,11 +74,17 @@ Searching for information can be a daunting task.
 
 ## Defending your thesis
 [The best thesis defense is a good thesis offense](https://xkcd.com/1403/)
+[How to give a talk](http://www.howtogiveatalk.com/)
+[How to prepare a talk](https://www.cs.jhu.edu/~jason/advice/how-to-give-a-talk.html)
 
 ### Slide-deck
+- [How to avoid death by PowerPoint](https://www.youtube.com/watch?v=Iwpi1Lm6dFo)
+- [Life after death by PowerPoint](https://www.youtube.com/watch?v=lpvgfmEU2Ck)
+- 
 
 ### Presentation
-
+- [Presentation Advices](https://www.ifte.de/infos/dissertation/presentationAdvices.pdf)
+-
 
 ## Contribute
 
