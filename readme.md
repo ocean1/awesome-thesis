@@ -142,7 +142,7 @@ Almost there! がんばって!
 ## Mental health
 Student mental health resources.
 
-<!-- need better list of references --!>
+<!-- need better list of references -->
 - [Awesome mental health](https://github.com/theimpossibleastronaut/awesome-mentalhealth) - curated list of resources
 
 
