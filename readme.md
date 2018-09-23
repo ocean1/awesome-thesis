@@ -62,6 +62,7 @@ Searching for information can be a daunting task.
 Keep notes during meetings, and keep files organized and shareable.
 
 - [Effective Meeting Minutes](https://gaiku.io/blog/effective-meeting-minutes)
+- [Trello](https://trello.com/) - A web-based kanban-like project management application.
 - mindmaps
 
 
