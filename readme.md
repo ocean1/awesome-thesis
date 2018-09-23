@@ -61,11 +61,19 @@ Searching for information can be a daunting task.
 
 ### File Versioning
 - [The Git Book](https://git-scm.com/book/en/v2) - _the git book_
+- [Github Cheat Sheet](http://git.io/sheet) - A list of cool features of Git and GitHub
 
 
 ### File Sharing
+- [Dropbox]()
+- [Google Drive]()
+- [Owncloud]()
 
 ### Bibliography Management
+- [Zotero]()
+- [Mendeley]()
+- [JabRef]()
+- [Papis](https://github.com/papis/papis) - A Python based command line manager
 
 ### Backups
 
