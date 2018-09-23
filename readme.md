@@ -14,22 +14,28 @@
    * [Information Gathering](#information-gathering)
 * [Workflows&amp;Tools](#workflowstools)
    * [File Versioning](#file-versioning)
+   * [File Sharing](#file-sharing)
    * [Bibliography Management](#bibliography-management)
    * [Backups](#backups)
+* [Artifacts](#artifacts)
+   * [Code](#code)
+   * [Data](#data)
+* [Experiments](#experiments)
+   * [Designing experiments](#designing-experiments)
+   * [Running experiments](#running-experiments)
+   * [Benchmarking](#benchmarking)
 * [Writing](#writing)
    * [Scientific writing](#scientific-writing)
    * [Spell-check](#spell-check)
    * [Latex](#latex)
    * [Graphics](#graphics)
    * [Books](#books)
-* [Artifacts](#artifacts)
-   * [Code](#code)
-   * [Data](#data)
 * [Defending your thesis](#defending-your-thesis)
    * [Slide-deck](#slide-deck)
    * [Presentation](#presentation)
 * [Mental health](#mental-health)
-* [Contribute](#contribute)
+
+<!-- Added by: ocean, at: 2018-09-23T21:24+02:00 -->
 
 <!--te-->
 
@@ -45,10 +51,6 @@ Searching for information can be a daunting task.
 ### Searching through academic material
 - [Google scholar](http://scholar.google.it) - your first place to go when looking for papers and patents ``Stand on the shoulders of giants``
 - [How to read a paper](http://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf) - powerful tips to understand papers, and save time.
-
-### Information Gathering
-- [Beginner guide ](https://www.analyticsvidhya.com/blog/2015/10/beginner-guide-web-scraping-beautiful-soup-python/) 
-- [Scraping techniques]()
 
 ## Workflows&Tools
 - [Effective Meeting Minutes](https://gaiku.io/blog/effective-meeting-minutes)
@@ -76,16 +78,26 @@ Keeping code consistent, and experiments replayable might be of help to your adv
 
 ### Data
 
-###Building your dataset
+### Designing a dataset
 - [Design ML datasets](https://www.datasciencelearner.com/design-best-machine-learning-datasets/)
 
+### Information Gathering
+- [Beginner guide with Beautiful SOUP](https://www.analyticsvidhya.com/blog/2015/10/beginner-guide-web-scraping-beautiful-soup-python/) 
+- [Scraping techniques]()
 
-## Running experiments
+
+## Experiments
 Don't wait for your advisor to tell you your next step, be proactive! :)
 
-- [AWS]() - you can use an amazon micro instance for free for 1 year ;)
+### Designing experiments
+
+### Running experiments
+
+- [AWS](https://aws.amazon.com/free/) - you can use an amazon micro instance for free for 1 year ;)
 
 ### Benchmarking
+Running benchmarks is a delicate part of your thesis, these resources will help you
+- [Benchmarking Crimes](https://arxiv.org/pdf/1801.02381) - This paper explores the most common mistakes in benchmarking in the security community
 
 ## Writing
 - [Harvard College Writing Center Writing Resources](https://writingcenter.fas.harvard.edu/pages/resources)
@@ -110,7 +122,7 @@ Don't wait for your advisor to tell you your next step, be proactive! :)
 - [draw.io](https://www.draw.io/) - When Tikz doesn't work out, draw.io might save you
 
 ### Books
-- [Bugs in Writing]() - 
+- [BUGS in Writing](https://www.amazon.com/BUGS-Writing-Revised-Guide-Debugging/dp/020137921X) - debug your writing skills
 
 
 ## Defending your thesis
@@ -128,7 +140,10 @@ Almost there! がんばって!
 - [Presentation Advices](https://www.ifte.de/infos/dissertation/presentationAdvices.pdf)
 
 ## Mental health
-Things can get rough, student mental health resources.
+Student mental health resources.
+
+<!-- need better list of references --!>
+- [Awesome mental health](https://github.com/theimpossibleastronaut/awesome-mentalhealth) - curated list of resources
 
 
 ## Contribute
