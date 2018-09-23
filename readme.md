@@ -149,6 +149,15 @@ Student mental health resources.
 <!-- need better list of references -->
 - [Awesome mental health](https://github.com/theimpossibleastronaut/awesome-mentalhealth) - curated list of resources
 
+## What about after?
+
+### Develop a CV
+
+### Job Interviews
+- [Awesome Interview Questions](https://github.com/MaximAbramchuck/awesome-interview-questions) - A curated list of lists of technical interview questions.
+
+### Apply to academia
+- list of awesome resources to write phd proposals
 
 ## Contribute
 
