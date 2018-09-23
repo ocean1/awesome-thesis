@@ -35,9 +35,13 @@
    * [Slide-deck](#slide-deck)
    * [Presentation](#presentation)
 * [Mental health](#mental-health)
+* [What about after?](#what-about-after)
+   * [Develop a CV](#develop-a-cv)
+   * [Job Interviews](#job-interviews)
+   * [Apply to academia](#apply-to-academia)
 * [Contribute](#contribute)
 
-<!-- Added by: ocean, at: 2018-09-23T22:14+02:00 -->
+<!-- Added by: ocean, at: 2018-09-24T00:00+02:00 -->
 
 <!--te-->
 
