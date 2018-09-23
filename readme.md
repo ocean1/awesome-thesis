@@ -1,8 +1,8 @@
-# Awesome Thesis ☆=(ゝ･ω･)/ [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg?style=flat)](LICENSE.md)
+# Awesome Thesis [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg?style=flat)](LICENSE.md)
 
 > A curated list of resources to help you survive your CS master thesis
 
-This curated list is accompained by the [practical tips for surviving your CS thesis](survivaltips.md).
+This curated list is accompained by the [practical tips for surviving your CS thesis](survivaltips.md). ☆=(ゝ･ω･)/ 
 
 
 ## Contents
@@ -12,23 +12,21 @@ This curated list is accompained by the [practical tips for surviving your CS th
 
 
 ## Searching and Gathering information
-
 Searching for information can be a daunting task.
+
 ### Searching techniques
-- [+Fravia's search lores](http://search.lores.eu/indexo.htm) provides useful resources to understand how to search efficiently search for information
-    - [Machine Translation](http://search.lores.eu/machine_translation.htm) Search the web in other languages
-    - ["La legge dell'oca" a web-searching rule](http://search.lores.eu/ocadelcairo.htm) proving a direct relation between "findability" and "celebrity" of a target
 - [google dorks](https://exposingtheinvisible.org/guides/google-dorking/)
+- [+Fravia's search lores](http://search.lores.eu/indexo.htm) - information is outdated, but still a valuable resource for "searchers" to understand the web
+- 
 
 
 ### Searching through academic material
-- [Google scholar](http://scholar.google.it) - ``Stand on the shoulders of giants``
-- [How to read a paper](http://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf)
+- [Google scholar](http://scholar.google.it) - your first place to go when looking for papers and patents ``Stand on the shoulders of giants``
+- [How to read a paper](http://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf) - powerful tips to understand papers, and save time.
 - 
 
 ### Information Gathering
-- [Powerbrowsing!](http://search.lores.eu/mala_power.htm) Search and gather information with powerbrowsing!
-- [Scrapy]()
+- [Beginner guide ](https://www.analyticsvidhya.com/blog/2015/10/beginner-guide-web-scraping-beautiful-soup-python/) 
 - [Scraping techniques]()
 
 ## Workflows&Tools
@@ -45,7 +43,7 @@ Searching for information can be a daunting task.
 ## Writing
 - [Harvard College Writing Center Writing Resources](https://writingcenter.fas.harvard.edu/pages/resources)
 
-## Scientific writing
+### Scientific writing
 - [PrettyWrite](https://github.com/phretor/pretty-write) - Practical Thesis-writing Guidelines for Master Students
 
 ### Tools
@@ -84,7 +82,12 @@ Searching for information can be a daunting task.
 
 ### Presentation
 - [Presentation Advices](https://www.ifte.de/infos/dissertation/presentationAdvices.pdf)
--
+- 
+
+## Mental health
+Things can get rough...
+
+- student mental health resources?
 
 ## Contribute
 
