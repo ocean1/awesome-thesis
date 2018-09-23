@@ -59,6 +59,8 @@ Searching for information can be a daunting task.
 - [How to read a paper](http://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf) - powerful tips to understand papers, and save time.
 
 ## Workflows&Tools
+Keep notes during meetings, and keep files organized and shareable.
+
 - [Effective Meeting Minutes](https://gaiku.io/blog/effective-meeting-minutes)
 - mindmaps
 
