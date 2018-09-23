@@ -81,7 +81,7 @@ Keeping code consistent, and experiments replayable might be of help to your adv
 
 
 ## Running experiments
-blabla don't wait for your advisor...
+Don't wait for your advisor to tell you your next step, be proactive! :)
 
 - [AWS]() - you can use an amazon micro instance for free for 1 year ;)
 
