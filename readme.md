@@ -8,34 +8,36 @@
 ## Contents
 
 <!--ts-->
-* [Searching and Gathering information](#searching-and-gathering-information)
-   * [Searching techniques](#searching-techniques)
-   * [Searching through academic material](#searching-through-academic-material)
-   * [Information Gathering](#information-gathering)
-* [Workflows&amp;Tools](#workflowstools)
-   * [File Versioning](#file-versioning)
-   * [File Sharing](#file-sharing)
-   * [Bibliography Management](#bibliography-management)
-   * [Backups](#backups)
-* [Artifacts](#artifacts)
-   * [Code](#code)
-   * [Data](#data)
-* [Experiments](#experiments)
-   * [Designing experiments](#designing-experiments)
-   * [Running experiments](#running-experiments)
-   * [Benchmarking](#benchmarking)
-* [Writing](#writing)
-   * [Scientific writing](#scientific-writing)
-   * [Spell-check](#spell-check)
-   * [Latex](#latex)
-   * [Graphics](#graphics)
-   * [Books](#books)
-* [Defending your thesis](#defending-your-thesis)
-   * [Slide-deck](#slide-deck)
-   * [Presentation](#presentation)
-* [Mental health](#mental-health)
+      * [Searching and Gathering information](#searching-and-gathering-information)
+         * [Searching techniques](#searching-techniques)
+         * [Searching through academic material](#searching-through-academic-material)
+      * [Workflows&amp;Tools](#workflowstools)
+         * [File Versioning](#file-versioning)
+         * [File Sharing](#file-sharing)
+         * [Bibliography Management](#bibliography-management)
+         * [Backups](#backups)
+      * [Artifacts](#artifacts)
+         * [Code](#code)
+         * [Data](#data)
+         * [Designing a dataset](#designing-a-dataset)
+         * [Information Gathering](#information-gathering)
+      * [Experiments](#experiments)
+         * [Designing experiments](#designing-experiments)
+         * [Running experiments](#running-experiments)
+         * [Benchmarking](#benchmarking)
+      * [Writing](#writing)
+         * [Scientific writing](#scientific-writing)
+         * [Spell-check](#spell-check)
+         * [Latex](#latex)
+         * [Graphics](#graphics)
+         * [Books](#books)
+      * [Defending your thesis](#defending-your-thesis)
+         * [Slide-deck](#slide-deck)
+         * [Presentation](#presentation)
+      * [Mental health](#mental-health)
+      * [Contribute](#contribute)
 
-<!-- Added by: ocean, at: 2018-09-23T21:24+02:00 -->
+<!-- Added by: ocean, at: 2018-09-23T22:14+02:00 -->
 
 <!--te-->
 
@@ -44,8 +46,8 @@
 Searching for information can be a daunting task.
 
 ### Searching techniques
-- [google dorks](https://exposingtheinvisible.org/guides/google-dorking/) - "dorking" is a powerful technique to query search engines
-- [+Fravia's search lores](http://search.lores.eu/indexo.htm) - information is outdated, but still a valuable resource for "searchers" to understand the web
+- [google dorks](https://exposingtheinvisible.org/guides/google-dorking/) - _dorking_, is a powerful technique to query search engines
+- [+Fravia's search lores](http://search.lores.eu/indexo.htm) - information is outdated, but still a valuable resource for _searchers_ to understand the web
 
 
 ### Searching through academic material
@@ -58,6 +60,8 @@ Searching for information can be a daunting task.
 
 
 ### File Versioning
+- [The Git Book](https://git-scm.com/book/en/v2) - _the git book_
+
 
 ### File Sharing
 
