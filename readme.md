@@ -2,7 +2,7 @@
 
 > A curated list of resources to help you survive your CS master thesis
 
-This curated list is accompained by the [practical tips for surviving your CS thesis](survivaltips.md). ☆=(ゝ･ω･)/ 
+☆=(ゝ･ω･)/
 
 
 ## Contents
@@ -15,15 +15,13 @@ This curated list is accompained by the [practical tips for surviving your CS th
 Searching for information can be a daunting task.
 
 ### Searching techniques
-- [google dorks](https://exposingtheinvisible.org/guides/google-dorking/)
+- [google dorks](https://exposingtheinvisible.org/guides/google-dorking/) - "dorking" is a powerful technique to query search engines
 - [+Fravia's search lores](http://search.lores.eu/indexo.htm) - information is outdated, but still a valuable resource for "searchers" to understand the web
-- 
 
 
 ### Searching through academic material
 - [Google scholar](http://scholar.google.it) - your first place to go when looking for papers and patents ``Stand on the shoulders of giants``
 - [How to read a paper](http://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf) - powerful tips to understand papers, and save time.
-- 
 
 ### Information Gathering
 - [Beginner guide ](https://www.analyticsvidhya.com/blog/2015/10/beginner-guide-web-scraping-beautiful-soup-python/) 
@@ -46,7 +44,7 @@ Searching for information can be a daunting task.
 ### Scientific writing
 - [PrettyWrite](https://github.com/phretor/pretty-write) - Practical Thesis-writing Guidelines for Master Students
 
-### Tools
+### Spell-check
 - [Chrisper](https://github.com/invernizzi/Chrisper)
 - [Academic Writing Check](https://github.com/devd/Academic-Writing-Check.git)
 - [aspell](http://aspell.net/)
@@ -56,16 +54,21 @@ Searching for information can be a daunting task.
 - [Latex](http://latex.org/index.php) [![Latex][awesome]](https://raw.githubusercontent.com/egeerardyn/awesome-LaTeX)
 - [CS PhD dissertation latex template](https://github.com/phretor/cs-phd-dissertation-latex-template)
 - [Latex Tutorial](https://www.um.edu.mt/__data/assets/pdf_file/0004/171373/LaTeX_Tutorial.pdf)
+
+### Graphics
 - [Tikz](http://www.texample.net/tikz/) [![Tikz][awesome]](https://github.com/xiaohanyu/awesome-tikz)
+- [draw.io](https://www.draw.io/) - When Tikz doesn't work out, draw.io might save you
 
 ### Books
-- 
+- [Bugs in Writing]() - 
 
 
 ## Artifacts
 
 ### Code
-
+- [coding conventions]() - keep your code consistent and readable
+- [documentation]() - help your advisors understand your code
+    - [how to document your code responsibly](https://medium.com/@andrewgoldis/how-to-document-source-code-responsibly-2b2f303aa525) - 
 
 ### Data
 
@@ -78,7 +81,6 @@ Searching for information can be a daunting task.
 ### Slide-deck
 - [How to avoid death by PowerPoint](https://www.youtube.com/watch?v=Iwpi1Lm6dFo)
 - [Life after death by PowerPoint](https://www.youtube.com/watch?v=lpvgfmEU2Ck)
-- 
 
 ### Presentation
 - [Presentation Advices](https://www.ifte.de/infos/dissertation/presentationAdvices.pdf)
