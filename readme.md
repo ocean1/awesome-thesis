@@ -57,15 +57,42 @@ Searching for information can be a daunting task.
 
 ### File Versioning
 
+### File Sharing
+
 ### Bibliography Management
 
 ### Backups
+
+
+## Artifacts
+With great artifacts comes a great thesis, put a readme in every directory, and keep it tidy and understandable to others!
+
+### Code
+Keeping code consistent, and experiments replayable might be of help to your advisors to crack problems with you
+
+- [coding conventions]() - keep your code consistent and readable
+- [documentation]() - document where you can :)
+    - [how to document your code responsibly](https://medium.com/@andrewgoldis/how-to-document-source-code-responsibly-2b2f303aa525) - 
+
+### Data
+
+###Building your dataset
+- [Design ML datasets](https://www.datasciencelearner.com/design-best-machine-learning-datasets/)
+
+
+## Running experiments
+blabla don't wait for your advisor...
+
+- [AWS]() - you can use an amazon micro instance for free for 1 year ;)
+
+### Benchmarking
 
 ## Writing
 - [Harvard College Writing Center Writing Resources](https://writingcenter.fas.harvard.edu/pages/resources)
 
 ### Scientific writing
 - [PrettyWrite](https://github.com/phretor/pretty-write) - Practical Thesis-writing Guidelines for Master Students
+- [How to write a research paper](https://docs.google.com/presentation/d/1LGcM3Jmd5ZkoYfn1Bph4W4-lYQD0lDnrtOKe3IpTiAs/edit?usp=sharing) - these awesome tips also apply to your thesis
 
 ### Spell-check
 - [Chrisper](https://github.com/invernizzi/Chrisper)
@@ -86,16 +113,6 @@ Searching for information can be a daunting task.
 - [Bugs in Writing]() - 
 
 
-## Artifacts
-
-### Code
-- [coding conventions]() - keep your code consistent and readable
-- [documentation]() - help your advisors understand your code
-    - [how to document your code responsibly](https://medium.com/@andrewgoldis/how-to-document-source-code-responsibly-2b2f303aa525) - 
-
-### Data
-
-
 ## Defending your thesis
 - [The best thesis defense is a good thesis offense](https://xkcd.com/1403/)
 - [How to give a talk](http://www.howtogiveatalk.com/)
@@ -106,13 +123,13 @@ Searching for information can be a daunting task.
 - [Life after death by PowerPoint](https://www.youtube.com/watch?v=lpvgfmEU2Ck)
 
 ### Presentation
+Almost there! がんばって!
+
 - [Presentation Advices](https://www.ifte.de/infos/dissertation/presentationAdvices.pdf)
-- 
 
 ## Mental health
-Things can get rough...
+Things can get rough, student mental health resources.
 
-- student mental health resources?
 
 ## Contribute
 
