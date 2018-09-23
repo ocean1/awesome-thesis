@@ -112,7 +112,7 @@ Don't wait for your advisor to tell you your next step, be proactive! :)
 
 ### Benchmarking
 Running benchmarks is a delicate part of your thesis, these resources will help you
-- [Benchmarking Crimes](https://arxiv.org/pdf/1801.02381) - This paper explores the most common mistakes in benchmarking in the security community
+- [Benchmarking Crimes](https://arxiv.org/pdf/1801.02381) - This paper explores the most common mistakes
 
 ## Writing
 - [Harvard College Writing Center Writing Resources](https://writingcenter.fas.harvard.edu/pages/resources)
