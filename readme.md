@@ -78,14 +78,15 @@ Keep notes during meetings, and keep files organized and shareable.
 
 
 ### File Sharing
-- [Dropbox]()
-- [Google Drive]()
-- [Owncloud]()
+- [Dropbox](https://www.dropbox.com) - Dropbox is a modern workspace designed to reduce busywork – so you can focus on the things that matter.
+- [Google Drive](https://www.google.com/drive/) - Cloud Storage & File Backup for Photos, Docs & More
+- [Owncloud](https://owncloud.org/) - ownCloud is the largest Open Source Content Collaboration Platform in the world
 
 ### Bibliography Management
-- [Zotero]()
-- [Mendeley]()
-- [JabRef]()
+- [Zotero](https://www.zotero.org/) - Your personal
+research assistant
+- [Mendeley](https://www.mendeley.com) - Easy referencing
+- [JabRef](http://www.jabref.org/) - JabRef is an open source bibliography reference manager
 - [Papis](https://github.com/papis/papis) - A Python based command line manager
 
 ### Backups
@@ -99,7 +100,7 @@ Keeping code consistent, and experiments replayable might be of help to your adv
 
 - [coding conventions]() - keep your code consistent and readable
 - [documentation]() - document where you can :)
-    - [how to document your code responsibly](https://medium.com/@andrewgoldis/how-to-document-source-code-responsibly-2b2f303aa525) - 
+    - [how to document your code responsibly](https://medium.com/@andrewgoldis/how-to-document-source-code-responsibly-2b2f303aa525) -
 
 ### Data
 
@@ -107,7 +108,7 @@ Keeping code consistent, and experiments replayable might be of help to your adv
 <!--- [Design ML datasets](https://www.datasciencelearner.com/design-best-machine-learning-datasets/) # vet this resource -->
 
 ### Information Gathering
-- [Beginner guide with Beautiful SOUP](https://www.analyticsvidhya.com/blog/2015/10/beginner-guide-web-scraping-beautiful-soup-python/) 
+- [Beginner guide with Beautiful SOUP](https://www.analyticsvidhya.com/blog/2015/10/beginner-guide-web-scraping-beautiful-soup-python/)
 - [Scraping techniques]()
 
 
