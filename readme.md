@@ -78,14 +78,15 @@ Keep notes during meetings, and keep files organized and shareable.
 
 
 ### File Sharing
-- [Dropbox](https://www.dropbox.com)
-- [Google Drive](https://www.google.com/drive/)
-- [Owncloud](https://owncloud.org/)
+- [Dropbox](https://www.dropbox.com) - Dropbox is a modern workspace designed to reduce busywork – so you can focus on the things that matter.
+- [Google Drive](https://www.google.com/drive/) - Cloud Storage & File Backup for Photos, Docs & More
+- [Owncloud](https://owncloud.org/) - ownCloud is the largest Open Source Content Collaboration Platform in the world
 
 ### Bibliography Management
-- [Zotero](https://www.zotero.org/)
-- [Mendeley](https://www.mendeley.com)
-- [JabRef](http://www.jabref.org/)
+- [Zotero](https://www.zotero.org/) - Your personal
+research assistant
+- [Mendeley](https://www.mendeley.com) - Easy referencing
+- [JabRef](http://www.jabref.org/) - JabRef is an open source bibliography reference manager
 - [Papis](https://github.com/papis/papis) - A Python based command line manager
 
 ### Backups
