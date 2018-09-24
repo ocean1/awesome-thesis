@@ -177,6 +177,6 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 
 ## Acknowledgements
-The content of this document, have been suggested, and are inspired by awesome people, [go check them out](acknowledgements.md).
+The content of this document, are inspired by awesome people, [go check them out](acknowledgements.md).
 
 [awesome]:  https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
