@@ -55,10 +55,11 @@ Searching for information can be a daunting task.
 - [How to read a paper](http://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf) - powerful tips to understand papers, and save time.
 
 ### Searching code
+<!--
 - Elixir
 - opengrok
 - silversearcher
-- ctags and cscope llloooove
+- ctags and cscope-->
 
 ## Workflows&Tools
 Keep notes during meetings, and keep files organized and shareable.
