@@ -5,7 +5,7 @@
 ☆=(ゝ･ω･)/
 
 
-|ω・）Pssst. Wanna more tips for your thesis? [pretty-write](https://github.com/phretor/pretty-write).
+<!--|ω・）Pssst. Wanna more tips for your thesis? [pretty-write](https://github.com/phretor/pretty-write). almost there with pr and other outline formats let's wait for that :)-->
 
 
 ## Contents
@@ -112,7 +112,7 @@ Keeping code consistent, and experiments replayable might be of help to your adv
 
 
 ## Experiments
-Be proactive, carefully choose your next steps, don't be afraid of proposing different solutions.
+Be proactive, carefully choose and defend your next steps, don't be afraid of proposing different solutions.
 
 ### Designing experiments
 
