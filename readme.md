@@ -1,6 +1,6 @@
 # Awesome Thesis [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg?style=flat)](LICENSE.md)
 
-> A curated list of resources to help you survive your CS master thesis
+> A curated list of practical tips and tricks to help you achieve an awesome CS master thesis.
 
 ☆=(ゝ･ω･)/
 
