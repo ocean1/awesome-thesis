@@ -104,7 +104,7 @@ Keeping code consistent, and experiments replayable might be of help to your adv
 ### Data
 
 ### Designing a dataset
-- [Design ML datasets](https://www.datasciencelearner.com/design-best-machine-learning-datasets/)
+<!--- [Design ML datasets](https://www.datasciencelearner.com/design-best-machine-learning-datasets/) # vet this resource -->
 
 ### Information Gathering
 - [Beginner guide with Beautiful SOUP](https://www.analyticsvidhya.com/blog/2015/10/beginner-guide-web-scraping-beautiful-soup-python/) 
