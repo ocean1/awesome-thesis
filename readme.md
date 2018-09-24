@@ -54,6 +54,12 @@ Searching for information can be a daunting task.
 - [Google scholar](http://scholar.google.it) - your first place to go when looking for papers and patents ``Stand on the shoulders of giants``
 - [How to read a paper](http://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf) - powerful tips to understand papers, and save time.
 
+### Searching code
+- Elixir
+- opengrok
+- silversearcher
+- ctags and cscope llloooove
+
 ## Workflows&Tools
 Keep notes during meetings, and keep files organized and shareable.
 
@@ -105,6 +111,8 @@ Keeping code consistent, and experiments replayable might be of help to your adv
 Don't wait for your advisor to tell you your next step, be proactive! :)
 
 ### Designing experiments
+
+<!-- divide et impera -->
 
 ### Running experiments
 
@@ -164,5 +172,8 @@ Student mental health resources.
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 
+
+## Acknowledgements
+The content of this document, have been suggested, and are inspired by awesome people, [go check them out](acknowledgements.md).
 
 [awesome]:  https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
