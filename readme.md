@@ -112,7 +112,7 @@ Keeping code consistent, and experiments replayable might be of help to your adv
 
 
 ## Experiments
-Don't wait for your advisor to tell you your next step, be proactive! :)
+Be proactive, carefully choose your next steps, don't be afraid of proposing different solutions.
 
 ### Designing experiments
 
