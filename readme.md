@@ -124,7 +124,7 @@ Be proactive, carefully choose and defend your next steps, don't be afraid of pr
 
 ### Benchmarking
 Running benchmarks is a delicate part of your thesis, these resources will help you
-- [Benchmarking Crimes](https://arxiv.org/pdf/1801.02381) - This paper explores mistakes in benchmarking
+- [Benchmarking Crimes](https://arxiv.org/pdf/1801.02381) - This paper explores oversights in benchmarking
 
 ## Writing
 - [Harvard College Writing Center Writing Resources](https://writingcenter.fas.harvard.edu/pages/resources)
