@@ -5,6 +5,9 @@
 ☆=(ゝ･ω･)/
 
 
+|ω・）Pssst. Wanna more tips for your thesis? [pretty-write](https://github.com/phretor/pretty-write).
+
+
 ## Contents
 
 <!--ts-->
@@ -170,10 +173,7 @@ Student mental health resources.
 - [Awesome mental health](https://github.com/theimpossibleastronaut/awesome-mentalhealth) - curated list of resources
 
 ## Contribute
-
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
-
-|ω・）Pssst. Wanna more tips for your thesis? [pretty-write](https://github.com/phretor/pretty-write).
 
 
 ## Acknowledgements
