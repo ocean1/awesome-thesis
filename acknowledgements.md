@@ -3,4 +3,4 @@ Many resources and tips come from awesome people, in particular: [Federico Maggi
 
 And by awesome colleagues (([Michele Carminati](https://dblp.org/pers/hd/c/Carminati:Michele), [Marcello Pogliani](https://twitter.com/mapogli/), [Andrea Continella](https://conand.me/), [Mario Polino](https://jinblack.it/)), and terrific students.
 
-Check out these awesom labs: [NECST Lab@Polimi](https://necst.it/), [s3@Eurecom](http://www.s3.eurecom.fr/), and [UCSB SecLab](https://seclab.cs.ucsb.edu/).
+Check out these awesome labs: [NECST Lab@Polimi](https://necst.it/), [s3@Eurecom](http://www.s3.eurecom.fr/), and [UCSB SecLab](https://seclab.cs.ucsb.edu/).
