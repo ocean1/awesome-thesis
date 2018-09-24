@@ -112,7 +112,7 @@ Keeping code consistent, and experiments replayable might be of help to your adv
 
 
 ## Experiments
-Be proactive, carefully choose and defend your next steps, don't be afraid of proposing different solutions.
+Be proactive, carefully pick your next steps, don't be afraid of proposing _and defending_ different solutions.
 
 ### Designing experiments
 
