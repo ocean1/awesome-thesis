@@ -173,6 +173,8 @@ Student mental health resources.
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 
+|ω・）Pssst. Wanna more tips for your thesis? [pretty-write](https://github.com/phretor/pretty-write).
+
 
 ## Acknowledgements
 The content of this document, have been suggested, and are inspired by awesome people, [go check them out](acknowledgements.md).
