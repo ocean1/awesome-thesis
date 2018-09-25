@@ -21,11 +21,11 @@
    * [Data](#data)
    * [Designing a dataset](#designing-a-dataset)
    * [Information Gathering](#information-gathering)
-   * [Remote Control](#remote-control)
 * [Experiments](#experiments)
    * [Designing experiments](#designing-experiments)
    * [Running experiments](#running-experiments)
    * [Benchmarking](#benchmarking)
+   * [Remote Control](#remote-control)
 * [Writing](#writing)
    * [Scientific writing](#scientific-writing)
    * [Spell-check](#spell-check)
@@ -101,10 +101,6 @@ Keeping code consistent, and experiments replayable might be of help to your adv
 - [Beginner guide with Beautiful SOUP](https://www.analyticsvidhya.com/blog/2015/10/beginner-guide-web-scraping-beautiful-soup-python/) 
 - [Scraping techniques]()
 
-### Remote Control
-Whenever you need to check your 5 hours running script from another location
-- [Chrome Remote Desktop](https://chrome.google.com/webstore/detail/chrome-remote-desktop/gbchcmhmhahfdphkhkmpfmihenigjmpp) useful if you want to go cross-device without problems.. It just requires chrome and works in every known OS
-  - **Ubuntu notes:** Follow this [guide](https://medium.com/@vsimon/how-to-install-chrome-remote-desktop-on-ubuntu-18-04-52d99980d83e) to properly install it on Ubuntu or it will be painful :) - last checked September, 2018
 
 ## Experiments
 Don't wait for your advisor to tell you your next step, be proactive! :)
@@ -118,6 +114,11 @@ Don't wait for your advisor to tell you your next step, be proactive! :)
 ### Benchmarking
 Running benchmarks is a delicate part of your thesis, these resources will help you
 - [Benchmarking Crimes](https://arxiv.org/pdf/1801.02381) - This paper explores mistakes in benchmarking
+
+### Remote Control
+Whenever you need to check your 5 hours running script from another location
+- [Chrome Remote Desktop](https://chrome.google.com/webstore/detail/chrome-remote-desktop/gbchcmhmhahfdphkhkmpfmihenigjmpp) useful if you want to go cross-device without problems.. It just requires chrome and works in every known OS
+  - **Ubuntu notes:** Follow this [guide](https://medium.com/@vsimon/how-to-install-chrome-remote-desktop-on-ubuntu-18-04-52d99980d83e) to properly install it on Ubuntu or it will be painful :) - last checked September, 2018
 
 ## Writing
 - [Harvard College Writing Center Writing Resources](https://writingcenter.fas.harvard.edu/pages/resources)
