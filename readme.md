@@ -10,43 +10,43 @@
 
 ## Contents
 
-<!--ts-->
-* [Searching and indexing information](#searching-and-indexing-information)
-   * [Searching techniques](#searching-techniques)
-   * [Searching through academic material](#searching-through-academic-material)
-* [Workflows&amp;Tools](#workflowstools)
-   * [File Versioning](#file-versioning)
-   * [File Sharing](#file-sharing)
-   * [Bibliography Management](#bibliography-management)
-   * [Backups](#backups)
-* [Artifacts](#artifacts)
-   * [Code](#code)
-      * [Keep code and docs tidy](#keep-code-and-docs-tidy)
-      * [Searching and indexing code](#searching-and-indexing-code)
-   * [Data](#data)
-      * [Designing a dataset](#designing-a-dataset)
-      * [Information Gathering](#information-gathering)
-* [Experiments](#experiments)
-   * [Designing experiments](#designing-experiments)
-   * [Running experiments](#running-experiments)
-   * [Benchmarking](#benchmarking)
-* [Writing](#writing)
-   * [Scientific writing](#scientific-writing)
-   * [Spell-check](#spell-check)
-   * [Latex](#latex)
-   * [Graphics](#graphics)
-   * [Books](#books)
-* [Defending your thesis](#defending-your-thesis)
-   * [Slide-deck](#slide-deck)
-   * [Presentation](#presentation)
-* [Mental health](#mental-health)
-* [Acknowledgements](#acknowledgements)
-* [Contribute](#contribute)
+<!-- toc -->
 
-<!-- Added by: ocean, at: 2018-09-25T10:33+02:00 -->
+- [Searching and indexing information](#searching-and-indexing-information)
+  * [Searching techniques](#searching-techniques)
+  * [Searching through academic material](#searching-through-academic-material)
+- [Workflows&Tools](#workflowstools)
+  * [File Versioning](#file-versioning)
+  * [File Sharing](#file-sharing)
+  * [Bibliography Management](#bibliography-management)
+  * [Backups](#backups)
+- [Artifacts](#artifacts)
+  * [Code](#code)
+    + [Keep code and docs tidy](#keep-code-and-docs-tidy)
+    + [Searching and indexing code](#searching-and-indexing-code)
+  * [Data](#data)
+    + [Designing a dataset](#designing-a-dataset)
+    + [Obtainig a dataset](#obtainig-a-dataset)
+- [Experiments](#experiments)
+  * [Designing experiments](#designing-experiments)
+  * [Running experiments](#running-experiments)
+  * [Benchmarking](#benchmarking)
+- [Writing](#writing)
+  * [Scientific writing](#scientific-writing)
+  * [Spell-check](#spell-check)
+  * [Latex](#latex)
+  * [Graphics](#graphics)
+  * [Books](#books)
+- [Defending your thesis](#defending-your-thesis)
+  * [Slide-deck](#slide-deck)
+  * [Presentation](#presentation)
+- [Mental health](#mental-health)
+- [Women in STEM](#women-in-stem)
+- [Yet unsorted but awesome](#yet-unsorted-but-awesome)
+- [Acknowledgements](#acknowledgements)
+- [Contribute](#contribute)
 
-<!--te-->
-
+<!-- tocstop -->
 
 ## Searching and indexing information
 Searching for information can be a daunting task.
@@ -71,21 +71,23 @@ Keep notes during meetings, and keep files organized and shareable.
 
 
 ### File Versioning
+
 - [The Git Book](https://git-scm.com/book/en/v2) - _the git book_
 - [Github Cheat Sheet](http://git.io/sheet) - A list of cool features of Git and GitHub
 
 
 ### File Sharing
+
 - [Dropbox](https://www.dropbox.com) - Dropbox is a modern workspace designed to reduce busywork – so you can focus on the things that matter.
 - [Google Drive](https://www.google.com/drive/) - Cloud Storage & File Backup for Photos, Docs & More
 - [Owncloud](https://owncloud.org/) - ownCloud is the largest Open Source Content Collaboration Platform in the world
 
 ### Bibliography Management
-- [Zotero](https://www.zotero.org/) - Your personal
-research assistant
+
+- [Zotero](https://www.zotero.org/) - Your personal research assistant
 - [Mendeley](https://www.mendeley.com) - Easy referencing
 - [JabRef](http://www.jabref.org/) - JabRef is an open source bibliography reference manager
-- [Papis](https://github.com/papis/papis) - A Python based command line manager
+- - [Papis](https://github.com/papis/papis) - A Python based command line manager
 
 ### Backups
 
@@ -97,11 +99,13 @@ With great artifacts comes a great thesis, put a readme in every directory, and 
 Making experiments easily replayable might be of help to your advisors to crack problems with you
 
 #### Keep code and docs tidy
+
 - [coding conventions]() - keep your code consistent and readable
 - [documentation]() - document where you can :)
     - [how to document your code responsibly](https://medium.com/@andrewgoldis/how-to-document-source-code-responsibly-2b2f303aa525) -
 
 #### Searching and indexing code
+
 - [Elixir](https://github.com/bootlin/elixir) - a lightweight source referencer for C/C++ projects
 - [OpenGrok](https://github.com/oracle/opengrok) - source code/cross referencing engine
 - [silversearcher-ag](https://github.com/ggreer/the_silver_searcher) - ditch your grep, silversearcher is a blazing fast code searching tool
