@@ -15,11 +15,7 @@
 - [Searching and indexing information](#searching-and-indexing-information)
   * [Searching techniques](#searching-techniques)
   * [Searching through academic material](#searching-through-academic-material)
-- [Workflows&Tools](#workflowstools)
-  * [File Versioning](#file-versioning)
-  * [File Sharing](#file-sharing)
-  * [Bibliography Management](#bibliography-management)
-  * [Backups](#backups)
+- [Workflows](#workflows)
 - [Artifacts](#artifacts)
   * [Code](#code)
     + [Keep code and docs tidy](#keep-code-and-docs-tidy)
@@ -30,7 +26,6 @@
 - [Experiments](#experiments)
   * [Designing experiments](#designing-experiments)
   * [Running experiments](#running-experiments)
-    + [Remote Control](#remote-control)
   * [Benchmarking](#benchmarking)
 - [Writing](#writing)
   * [Scientific writing](#scientific-writing)
@@ -43,6 +38,12 @@
   * [Presentation](#presentation)
 - [Mental health](#mental-health)
 - [Women in STEM](#women-in-stem)
+- [Tools](#tools)
+  * [File Versioning](#file-versioning)
+  * [File Sharing](#file-sharing)
+  * [Bibliography Management](#bibliography-management)
+  * [Backups](#backups)
+  * [Remote Control](#remote-control)
 - [Yet unsorted but awesome](#yet-unsorted-but-awesome)
 - [Acknowledgements](#acknowledgements)
 - [Contribute](#contribute)
@@ -63,35 +64,14 @@ Searching for information can be a daunting task.
 
 <!-- add other awesome searching resources here, pudn and the like might be interesting... -->
 
-## Workflows&Tools
+## Workflows
 Keep notes during meetings, and keep files organized and shareable.
 
 - [Effective Meeting Minutes](https://gaiku.io/blog/effective-meeting-minutes)
 - [Trello](https://trello.com/) - A web-based kanban-like project management application.
 - mindmaps
 
-
-### File Versioning
-
-- [The Git Book](https://git-scm.com/book/en/v2) - _the git book_
-- [Github Cheat Sheet](http://git.io/sheet) - A list of cool features of Git and GitHub
-
-
-### File Sharing
-
-- [Dropbox](https://www.dropbox.com) - Dropbox is a modern workspace designed to reduce busywork – so you can focus on the things that matter.
-- [Google Drive](https://www.google.com/drive/) - Cloud Storage & File Backup for Photos, Docs & More
-- [Nextcloud](https://nextcloud.com/) - Open source cloud and collaboration platform based on ownCloud
-- [ownCloud](https://owncloud.org/) - ownCloud is the largest Open Source Content Collaboration Platform in the world
-
-### Bibliography Management
-
-- [Zotero](https://www.zotero.org/) - Your personal research assistant
-- [Mendeley](https://www.mendeley.com) - Easy referencing
-- [JabRef](http://www.jabref.org/) - JabRef is an open source bibliography reference manager
-- - [Papis](https://github.com/papis/papis) - A Python based command line manager
-
-### Backups
+<!-- minitoc here pointing to tools -->
 
 
 ## Artifacts
@@ -134,10 +114,6 @@ Be proactive, carefully pick your next steps, don't be afraid of proposing _and 
 ### Running experiments
 
 - [AWS](https://aws.amazon.com/free/) - you can use an amazon micro instance for free for 1 year ;)
-
-#### Remote Control
-Check out your long running experiments
-- [Chrome Remote Desktop](https://chrome.google.com/webstore/detail/chrome-remote-desktop/gbchcmhmhahfdphkhkmpfmihenigjmpp) - a nice remote desktop software tool with multiplatform support ([09/2018, Running on Ubuntu require some fiddling](https://medium.com/@vsimon/how-to-install-chrome-remote-desktop-on-ubuntu-18-04-52d99980d83e))
 
 ### Benchmarking
 Running benchmarks is a delicate part of your thesis, these resources will help you
@@ -196,6 +172,35 @@ Student mental health resources.
 <!-- [Women and Computer Science](http://people.mills.edu/spertus/Gender/gender.html) -->
 <!-- [](http://www.cs.indiana.edu/docproject/handbook/section1.9.0.3.html) -->
 - [BU CS resources - Women in Computer Science](https://www.bu.edu/cs/resources/women-in-computer-science/) - useful resources for women in STEM.
+
+## Tools
+
+### File Versioning
+
+- [The Git Book](https://git-scm.com/book/en/v2) - _the git book_
+- [Github Cheat Sheet](http://git.io/sheet) - A list of cool features of Git and GitHub
+
+
+### File Sharing
+
+- [Dropbox](https://www.dropbox.com) - Dropbox is a modern workspace designed to reduce busywork – so you can focus on the things that matter.
+- [Google Drive](https://www.google.com/drive/) - Cloud Storage & File Backup for Photos, Docs & More
+- [Nextcloud](https://nextcloud.com/) - Open source cloud and collaboration platform based on ownCloud
+- [ownCloud](https://owncloud.org/) - ownCloud is the largest Open Source Content Collaboration Platform in the world
+
+### Bibliography Management
+
+- [Zotero](https://www.zotero.org/) - Your personal research assistant
+- [Mendeley](https://www.mendeley.com) - Easy referencing
+- [JabRef](http://www.jabref.org/) - JabRef is an open source bibliography reference manager
+- - [Papis](https://github.com/papis/papis) - A Python based command line manager
+
+### Backups
+
+
+### Remote Control
+Check out your long running experiments
+- [Chrome Remote Desktop](https://chrome.google.com/webstore/detail/chrome-remote-desktop/gbchcmhmhahfdphkhkmpfmihenigjmpp) - a nice remote desktop software tool with multiplatform support ([09/2018, Running on Ubuntu require some fiddling](https://medium.com/@vsimon/how-to-install-chrome-remote-desktop-on-ubuntu-18-04-52d99980d83e))
 
 ## Yet unsorted but awesome
 - [Survival Skills for Graduate School and Beyond](http://www.angelfire.com/la3/laprairie/FischerZigmond.pdf) - 
