@@ -172,11 +172,10 @@ Student mental health resources.
 <!-- need better list of references -->
 - [Awesome mental health](https://github.com/theimpossibleastronaut/awesome-mentalhealth) - curated list of resources
 
+## Acknowledgements
+The content of this document is inspired by awesome people, [go check them out](acknowledgements.md).
+
 ## Contribute
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
-
-
-## Acknowledgements
-The content of this document, are inspired by awesome people, [go check them out](acknowledgements.md).
 
 [awesome]:  https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
