@@ -5,46 +5,50 @@
 ☆=(ゝ･ω･)/
 
 
+<!--|ω・）Pssst. Wanna more tips for your thesis? [pretty-write](https://github.com/phretor/pretty-write). almost there with pr and other outline formats let's wait for that :)-->
+
+
 ## Contents
 
-<!--ts-->
-* [Searching and Gathering information](#searching-and-gathering-information)
-   * [Searching techniques](#searching-techniques)
-   * [Searching through academic material](#searching-through-academic-material)
-* [Workflows&amp;Tools](#workflowstools)
-   * [File Versioning](#file-versioning)
-   * [File Sharing](#file-sharing)
-   * [Bibliography Management](#bibliography-management)
-   * [Backups](#backups)
-* [Artifacts](#artifacts)
-   * [Code](#code)
-   * [Data](#data)
-   * [Designing a dataset](#designing-a-dataset)
-   * [Information Gathering](#information-gathering)
-* [Experiments](#experiments)
-   * [Designing experiments](#designing-experiments)
-   * [Running experiments](#running-experiments)
-      * [Remote Control](#remote-control)
-   * [Benchmarking](#benchmarking)
+<!-- toc -->
 
-* [Writing](#writing)
-   * [Scientific writing](#scientific-writing)
-   * [Spell-check](#spell-check)
-   * [Latex](#latex)
-   * [Graphics](#graphics)
-   * [Books](#books)
-* [Defending your thesis](#defending-your-thesis)
-   * [Slide-deck](#slide-deck)
-   * [Presentation](#presentation)
-* [Mental health](#mental-health)
-* [Contribute](#contribute)
+- [Searching and indexing information](#searching-and-indexing-information)
+  * [Searching techniques](#searching-techniques)
+  * [Searching through academic material](#searching-through-academic-material)
+- [Workflows&Tools](#workflowstools)
+  * [File Versioning](#file-versioning)
+  * [File Sharing](#file-sharing)
+  * [Bibliography Management](#bibliography-management)
+  * [Backups](#backups)
+- [Artifacts](#artifacts)
+  * [Code](#code)
+    + [Keep code and docs tidy](#keep-code-and-docs-tidy)
+    + [Searching and indexing code](#searching-and-indexing-code)
+  * [Data](#data)
+    + [Designing a dataset](#designing-a-dataset)
+    + [Obtainig a dataset](#obtainig-a-dataset)
+- [Experiments](#experiments)
+  * [Designing experiments](#designing-experiments)
+  * [Running experiments](#running-experiments)
+  * [Benchmarking](#benchmarking)
+- [Writing](#writing)
+  * [Scientific writing](#scientific-writing)
+  * [Spell-check](#spell-check)
+  * [Latex](#latex)
+  * [Graphics](#graphics)
+  * [Books](#books)
+- [Defending your thesis](#defending-your-thesis)
+  * [Slide-deck](#slide-deck)
+  * [Presentation](#presentation)
+- [Mental health](#mental-health)
+- [Women in STEM](#women-in-stem)
+- [Yet unsorted but awesome](#yet-unsorted-but-awesome)
+- [Acknowledgements](#acknowledgements)
+- [Contribute](#contribute)
 
-<!-- Added by: ocean, at: 2018-09-24T00:27+02:00 -->
+<!-- tocstop -->
 
-<!--te-->
-
-
-## Searching and Gathering information
+## Searching and indexing information
 Searching for information can be a daunting task.
 
 ### Searching techniques
@@ -56,6 +60,8 @@ Searching for information can be a daunting task.
 - [Google scholar](http://scholar.google.it) - your first place to go when looking for papers and patents ``Stand on the shoulders of giants``
 - [How to read a paper](http://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf) - powerful tips to understand papers, and save time.
 
+<!-- add other awesome searching resources here, pudn and the like might be interesting... -->
+
 ## Workflows&Tools
 Keep notes during meetings, and keep files organized and shareable.
 
@@ -65,20 +71,24 @@ Keep notes during meetings, and keep files organized and shareable.
 
 
 ### File Versioning
+
 - [The Git Book](https://git-scm.com/book/en/v2) - _the git book_
 - [Github Cheat Sheet](http://git.io/sheet) - A list of cool features of Git and GitHub
 
 
 ### File Sharing
-- [Dropbox]()
-- [Google Drive]()
-- [Owncloud]()
+
+- [Dropbox](https://www.dropbox.com) - Dropbox is a modern workspace designed to reduce busywork – so you can focus on the things that matter.
+- [Google Drive](https://www.google.com/drive/) - Cloud Storage & File Backup for Photos, Docs & More
+- [Nextcloud](https://nextcloud.com/) - Open source cloud and collaboration platform based on ownCloud
+- [ownCloud](https://owncloud.org/) - ownCloud is the largest Open Source Content Collaboration Platform in the world
 
 ### Bibliography Management
-- [Zotero]()
-- [Mendeley]()
-- [JabRef]()
-- [Papis](https://github.com/papis/papis) - A Python based command line manager
+
+- [Zotero](https://www.zotero.org/) - Your personal research assistant
+- [Mendeley](https://www.mendeley.com) - Easy referencing
+- [JabRef](http://www.jabref.org/) - JabRef is an open source bibliography reference manager
+- - [Papis](https://github.com/papis/papis) - A Python based command line manager
 
 ### Backups
 
@@ -87,26 +97,38 @@ Keep notes during meetings, and keep files organized and shareable.
 With great artifacts comes a great thesis, put a readme in every directory, and keep it tidy and understandable to others!
 
 ### Code
-Keeping code consistent, and experiments replayable might be of help to your advisors to crack problems with you
+Making experiments easily replayable might be of help to your advisors to crack problems with you
+
+#### Keep code and docs tidy
 
 - [coding conventions]() - keep your code consistent and readable
 - [documentation]() - document where you can :)
-    - [how to document your code responsibly](https://medium.com/@andrewgoldis/how-to-document-source-code-responsibly-2b2f303aa525) - 
+    - [how to document your code responsibly](https://medium.com/@andrewgoldis/how-to-document-source-code-responsibly-2b2f303aa525) -
+
+#### Searching and indexing code
+
+- [Elixir](https://github.com/bootlin/elixir) - a lightweight source referencer for C/C++ projects
+- [OpenGrok](https://github.com/oracle/opengrok) - source code/cross referencing engine
+- [silversearcher-ag](https://github.com/ggreer/the_silver_searcher) - ditch your grep, silversearcher is a blazing fast code searching tool
+- [cscope](http://cscope.sourceforge.net/) - tool for browsing C source code
+- [ctags](http://ctags.sourceforge.net/) - generate [``tag files``](http://ctags.sourceforge.net/whatis.html) for different programming languages
 
 ### Data
 
-### Designing a dataset
-- [Design ML datasets](https://www.datasciencelearner.com/design-best-machine-learning-datasets/)
+#### Designing a dataset
+<!--- [Design ML datasets](https://www.datasciencelearner.com/design-best-machine-learning-datasets/) # vet this resource -->
 
-### Information Gathering
-- [Beginner guide with Beautiful SOUP](https://www.analyticsvidhya.com/blog/2015/10/beginner-guide-web-scraping-beautiful-soup-python/) 
+#### Obtainig a dataset
 - [Scraping techniques]()
+  - [Beginner guide with Beautiful SOUP](https://www.analyticsvidhya.com/blog/2015/10/beginner-guide-web-scraping-beautiful-soup-python/)
 
 
 ## Experiments
-Don't wait for your advisor to tell you your next step, be proactive! :)
+Be proactive, carefully pick your next steps, don't be afraid of proposing _and defending_ different solutions.
 
 ### Designing experiments
+
+<!-- divide et impera -->
 
 ### Running experiments
 
@@ -119,7 +141,7 @@ Whenever you need to check your 5 hours running script from another location
 
 ### Benchmarking
 Running benchmarks is a delicate part of your thesis, these resources will help you
-- [Benchmarking Crimes](https://arxiv.org/pdf/1801.02381) - This paper explores mistakes in benchmarking
+- [Benchmarking Crimes](https://arxiv.org/pdf/1801.02381) - This paper explores oversights in benchmarking
 
 
 ## Writing
@@ -168,9 +190,20 @@ Student mental health resources.
 <!-- need better list of references -->
 - [Awesome mental health](https://github.com/theimpossibleastronaut/awesome-mentalhealth) - curated list of resources
 
+## Women in STEM
+
+<!-- links inactive, try finding on web archive... -->
+<!-- [Women and Computer Science](http://people.mills.edu/spertus/Gender/gender.html) -->
+<!-- [](http://www.cs.indiana.edu/docproject/handbook/section1.9.0.3.html) -->
+- [BU CS resources - Women in Computer Science](https://www.bu.edu/cs/resources/women-in-computer-science/) - useful resources for women in STEM.
+
+## Yet unsorted but awesome
+- [Survival Skills for Graduate School and Beyond](http://www.angelfire.com/la3/laprairie/FischerZigmond.pdf) - 
+
+## Acknowledgements
+The content of this document is inspired by awesome people, [go check them out](acknowledgements.md).
+
 ## Contribute
-
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
-
 
 [awesome]:  https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
