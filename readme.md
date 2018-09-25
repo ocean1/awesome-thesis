@@ -45,7 +45,7 @@
 <!--te-->
 
 
-## Searching and Gathering information
+## Searching and indexing information
 Searching for information can be a daunting task.
 
 ### Searching techniques
@@ -57,12 +57,7 @@ Searching for information can be a daunting task.
 - [Google scholar](http://scholar.google.it) - your first place to go when looking for papers and patents ``Stand on the shoulders of giants``
 - [How to read a paper](http://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf) - powerful tips to understand papers, and save time.
 
-### Searching code
-<!--
-- Elixir
-- opengrok
-- silversearcher
-- ctags and cscope-->
+<!-- add other awesome searching resources here, pudn and the like might be interesting... -->
 
 ## Workflows&Tools
 Keep notes during meetings, and keep files organized and shareable.
@@ -101,6 +96,13 @@ Keeping code consistent, and experiments replayable might be of help to your adv
 - [coding conventions]() - keep your code consistent and readable
 - [documentation]() - document where you can :)
     - [how to document your code responsibly](https://medium.com/@andrewgoldis/how-to-document-source-code-responsibly-2b2f303aa525) -
+
+- [Searching and indexing code]()
+    - [Elixir](https://github.com/bootlin/elixir) - a lightweight source referencer for C/C++ projects
+    - [OpenGrok](https://github.com/oracle/opengrok) - source code/cross referencing engine
+    - [silversearcher-ag](https://github.com/ggreer/the_silver_searcher) - ditch your grep, silversearcher is a blazing fast code searching tool
+    - [cscope](http://cscope.sourceforge.net/) - tool for browsing C source code
+    - [ctags](http://ctags.sourceforge.net/) - generate [``tag files``](http://ctags.sourceforge.net/whatis.html) for different programming languages
 
 ### Data
 
