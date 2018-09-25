@@ -113,9 +113,9 @@ Making experiments easily replayable might be of help to your advisors to crack 
 #### Designing a dataset
 <!--- [Design ML datasets](https://www.datasciencelearner.com/design-best-machine-learning-datasets/) # vet this resource -->
 
-#### Information Gathering
-- [Beginner guide with Beautiful SOUP](https://www.analyticsvidhya.com/blog/2015/10/beginner-guide-web-scraping-beautiful-soup-python/)
+#### Obtainig a dataset
 - [Scraping techniques]()
+  - [Beginner guide with Beautiful SOUP](https://www.analyticsvidhya.com/blog/2015/10/beginner-guide-web-scraping-beautiful-soup-python/)
 
 
 ## Experiments
@@ -178,6 +178,16 @@ Student mental health resources.
 
 <!-- need better list of references -->
 - [Awesome mental health](https://github.com/theimpossibleastronaut/awesome-mentalhealth) - curated list of resources
+
+## Women in STEM
+
+<!-- links inactive, try finding on web archive... -->
+<!-- [Women and Computer Science](http://people.mills.edu/spertus/Gender/gender.html) -->
+<!-- [](http://www.cs.indiana.edu/docproject/handbook/section1.9.0.3.html) -->
+- [BU CS resources - Women in Computer Science](https://www.bu.edu/cs/resources/women-in-computer-science/) - useful resources for women in STEM.
+
+## Yet unsorted but awesome
+- [Survival Skills for Graduate School and Beyond](http://www.angelfire.com/la3/laprairie/FischerZigmond.pdf) - 
 
 ## Acknowledgements
 The content of this document is inspired by awesome people, [go check them out](acknowledgements.md).
