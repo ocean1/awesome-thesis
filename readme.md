@@ -134,9 +134,15 @@ Be proactive, carefully pick your next steps, don't be afraid of proposing _and 
 
 - [AWS](https://aws.amazon.com/free/) - you can use an amazon micro instance for free for 1 year ;)
 
+#### Remote Control
+Whenever you need to check your 5 hours running script from another location
+- [Chrome Remote Desktop](https://chrome.google.com/webstore/detail/chrome-remote-desktop/gbchcmhmhahfdphkhkmpfmihenigjmpp) useful if you want to go cross-device without problems.. It just requires chrome and works in every known OS
+  - **Ubuntu notes:** Follow this [guide](https://medium.com/@vsimon/how-to-install-chrome-remote-desktop-on-ubuntu-18-04-52d99980d83e) to properly install it on Ubuntu or it will be painful :) - last checked September, 2018
+
 ### Benchmarking
 Running benchmarks is a delicate part of your thesis, these resources will help you
 - [Benchmarking Crimes](https://arxiv.org/pdf/1801.02381) - This paper explores oversights in benchmarking
+
 
 ## Writing
 - [Harvard College Writing Center Writing Resources](https://writingcenter.fas.harvard.edu/pages/resources)
