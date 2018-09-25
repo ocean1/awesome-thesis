@@ -78,7 +78,8 @@ Keep notes during meetings, and keep files organized and shareable.
 ### File Sharing
 - [Dropbox](https://www.dropbox.com) - Dropbox is a modern workspace designed to reduce busywork – so you can focus on the things that matter.
 - [Google Drive](https://www.google.com/drive/) - Cloud Storage & File Backup for Photos, Docs & More
-- [Owncloud](https://owncloud.org/) - ownCloud is the largest Open Source Content Collaboration Platform in the world
+- [Nextcloud](https://nextcloud.com/) - Open source cloud and collaboration platform based on ownCloud
+- [ownCloud](https://owncloud.org/) - ownCloud is the largest Open Source Content Collaboration Platform in the world
 
 ### Bibliography Management
 - [Zotero](https://www.zotero.org/) - Your personal
