@@ -11,36 +11,39 @@
 ## Contents
 
 <!--ts-->
-* [Searching and Gathering information](#searching-and-gathering-information)
-   * [Searching techniques](#searching-techniques)
-   * [Searching through academic material](#searching-through-academic-material)
-* [Workflows&amp;Tools](#workflowstools)
-   * [File Versioning](#file-versioning)
-   * [File Sharing](#file-sharing)
-   * [Bibliography Management](#bibliography-management)
-   * [Backups](#backups)
-* [Artifacts](#artifacts)
-   * [Code](#code)
-   * [Data](#data)
-   * [Designing a dataset](#designing-a-dataset)
-   * [Information Gathering](#information-gathering)
-* [Experiments](#experiments)
-   * [Designing experiments](#designing-experiments)
-   * [Running experiments](#running-experiments)
-   * [Benchmarking](#benchmarking)
-* [Writing](#writing)
-   * [Scientific writing](#scientific-writing)
-   * [Spell-check](#spell-check)
-   * [Latex](#latex)
-   * [Graphics](#graphics)
-   * [Books](#books)
-* [Defending your thesis](#defending-your-thesis)
-   * [Slide-deck](#slide-deck)
-   * [Presentation](#presentation)
-* [Mental health](#mental-health)
-* [Contribute](#contribute)
+      * [Searching and indexing information](#searching-and-indexing-information)
+         * [Searching techniques](#searching-techniques)
+         * [Searching through academic material](#searching-through-academic-material)
+      * [Workflows&amp;Tools](#workflowstools)
+         * [File Versioning](#file-versioning)
+         * [File Sharing](#file-sharing)
+         * [Bibliography Management](#bibliography-management)
+         * [Backups](#backups)
+      * [Artifacts](#artifacts)
+         * [Code](#code)
+            * [Keep code and docs tidy](#keep-code-and-docs-tidy)
+            * [Searching and indexing code](#searching-and-indexing-code)
+         * [Data](#data)
+            * [Designing a dataset](#designing-a-dataset)
+            * [Information Gathering](#information-gathering)
+      * [Experiments](#experiments)
+         * [Designing experiments](#designing-experiments)
+         * [Running experiments](#running-experiments)
+         * [Benchmarking](#benchmarking)
+      * [Writing](#writing)
+         * [Scientific writing](#scientific-writing)
+         * [Spell-check](#spell-check)
+         * [Latex](#latex)
+         * [Graphics](#graphics)
+         * [Books](#books)
+      * [Defending your thesis](#defending-your-thesis)
+         * [Slide-deck](#slide-deck)
+         * [Presentation](#presentation)
+      * [Mental health](#mental-health)
+      * [Acknowledgements](#acknowledgements)
+      * [Contribute](#contribute)
 
-<!-- Added by: ocean, at: 2018-09-24T00:27+02:00 -->
+<!-- Added by: ocean, at: 2018-09-25T10:33+02:00 -->
 
 <!--te-->
 
@@ -91,13 +94,14 @@ research assistant
 With great artifacts comes a great thesis, put a readme in every directory, and keep it tidy and understandable to others!
 
 ### Code
-Keeping code consistent, and experiments replayable might be of help to your advisors to crack problems with you
+Making experiments easily replayable might be of help to your advisors to crack problems with you
 
+#### Keep code and docs tidy
 - [coding conventions]() - keep your code consistent and readable
 - [documentation]() - document where you can :)
     - [how to document your code responsibly](https://medium.com/@andrewgoldis/how-to-document-source-code-responsibly-2b2f303aa525) -
 
-- [Searching and indexing code]()
+#### Searching and indexing code
     - [Elixir](https://github.com/bootlin/elixir) - a lightweight source referencer for C/C++ projects
     - [OpenGrok](https://github.com/oracle/opengrok) - source code/cross referencing engine
     - [silversearcher-ag](https://github.com/ggreer/the_silver_searcher) - ditch your grep, silversearcher is a blazing fast code searching tool
@@ -106,10 +110,10 @@ Keeping code consistent, and experiments replayable might be of help to your adv
 
 ### Data
 
-### Designing a dataset
+#### Designing a dataset
 <!--- [Design ML datasets](https://www.datasciencelearner.com/design-best-machine-learning-datasets/) # vet this resource -->
 
-### Information Gathering
+#### Information Gathering
 - [Beginner guide with Beautiful SOUP](https://www.analyticsvidhya.com/blog/2015/10/beginner-guide-web-scraping-beautiful-soup-python/)
 - [Scraping techniques]()
 
