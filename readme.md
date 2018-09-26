@@ -55,6 +55,7 @@
 Workflows and tips to help you manage your thesis like a pro.
 
 ### Meetings
+<!-- add something on how to effectively communicate what you are doing -->
 Keep notes during meetings, and keep files organized and shareable.
 - [Effective Meeting Minutes](https://gaiku.io/blog/effective-meeting-minutes)
 
@@ -115,11 +116,13 @@ Running benchmarks is a delicate part of your thesis, these resources will help 
 
 
 ## Writing
-- [Harvard College Writing Center Writing Resources](https://writingcenter.fas.harvard.edu/pages/resources)
 
 ### Scientific writing
+- [Harvard College Writing Center Writing Resources](https://writingcenter.fas.harvard.edu/pages/resources)
 - [PrettyWrite](https://github.com/phretor/pretty-write) - Practical Thesis-writing Guidelines for Master Students
 - [How to write a research paper](https://docs.google.com/presentation/d/1LGcM3Jmd5ZkoYfn1Bph4W4-lYQD0lDnrtOKe3IpTiAs/edit?usp=sharing) - these awesome tips also apply to your thesis
+
+### Writer's block
 
 ### Spell-check
 - [Chrisper](https://github.com/invernizzi/Chrisper)
@@ -187,7 +190,7 @@ Student mental health resources.
 - [Zotero](https://www.zotero.org/) - Your personal research assistant
 - [Mendeley](https://www.mendeley.com) - Easy referencing
 - [JabRef](http://www.jabref.org/) - JabRef is an open source bibliography reference manager
-- - [Papis](https://github.com/papis/papis) - A Python based command line manager
+- [Papis](https://github.com/papis/papis) - A Python based command line manager
 
 ### Backups
 
