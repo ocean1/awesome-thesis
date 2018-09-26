@@ -12,50 +12,50 @@
 
 <!-- toc -->
 
-- [Searching and indexing information](#searching-and-indexing-information)
-  * [Searching techniques](#searching-techniques)
-  * [Searching through academic material](#searching-through-academic-material)
 - [Workflows](#workflows)
-- [Artifacts](#artifacts)
-  * [Code](#code)
-    + [Keep code and docs tidy](#keep-code-and-docs-tidy)
+  * [Meetings](#meetings)
+  * [Searching](#searching)
+    + [Searching techniques](#searching-techniques)
+    + [Searching through academic material](#searching-through-academic-material)
+  * [Indexing and managing information](#indexing-and-managing-information)
+  * [Artifacts](#artifacts)
+    + [Code](#code)
+      - [Keep code and docs tidy](#keep-code-and-docs-tidy)
+    + [Data](#data)
+      - [Designing a dataset](#designing-a-dataset)
+      - [Obtainig a dataset](#obtainig-a-dataset)
+  * [Experiments](#experiments)
+    + [Designing experiments](#designing-experiments)
+    + [Running experiments](#running-experiments)
+    + [Benchmarking](#benchmarking)
+  * [Writing](#writing)
+    + [Scientific writing](#scientific-writing)
+    + [Spell-check](#spell-check)
+    + [Latex](#latex)
+    + [Graphics](#graphics)
+    + [Books](#books)
+  * [Defending your thesis](#defending-your-thesis)
+    + [Slide-deck](#slide-deck)
+    + [Presentation](#presentation)
+  * [Mental health](#mental-health)
+  * [Women in STEM](#women-in-stem)
+  * [Tools](#tools)
+    + [File Versioning](#file-versioning)
+    + [File Sharing](#file-sharing)
+    + [Bibliography Management](#bibliography-management)
+    + [Backups](#backups)
     + [Searching and indexing code](#searching-and-indexing-code)
-  * [Data](#data)
-    + [Designing a dataset](#designing-a-dataset)
-    + [Obtainig a dataset](#obtainig-a-dataset)
-- [Experiments](#experiments)
-  * [Designing experiments](#designing-experiments)
-  * [Running experiments](#running-experiments)
-  * [Benchmarking](#benchmarking)
-- [Writing](#writing)
-  * [Scientific writing](#scientific-writing)
-  * [Spell-check](#spell-check)
-  * [Latex](#latex)
-  * [Graphics](#graphics)
-  * [Books](#books)
-- [Defending your thesis](#defending-your-thesis)
-  * [Slide-deck](#slide-deck)
-  * [Presentation](#presentation)
-- [Mental health](#mental-health)
-- [Women in STEM](#women-in-stem)
-- [Tools](#tools)
-  * [File Versioning](#file-versioning)
-  * [File Sharing](#file-sharing)
-  * [Bibliography Management](#bibliography-management)
-  * [Backups](#backups)
-  * [Remote Control](#remote-control)
-- [Yet unsorted but awesome](#yet-unsorted-but-awesome)
-- [Acknowledgements](#acknowledgements)
-- [Contribute](#contribute)
+    + [Remote Control](#remote-control)
+  * [Yet unsorted but awesome](#yet-unsorted-but-awesome)
+  * [Acknowledgements](#acknowledgements)
+  * [Contribute](#contribute)
 
 <!-- tocstop -->
 
-
-
-## Workflows
+# Workflows
 Workflows and tips to help you manage your thesis like a pro.
 
-# Meetings
+## Meetings
 Keep notes during meetings, and keep files organized and shareable.
 - [Effective Meeting Minutes](https://gaiku.io/blog/effective-meeting-minutes)
 
