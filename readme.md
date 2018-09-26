@@ -50,7 +50,16 @@
 
 <!-- tocstop -->
 
-## Searching and indexing information
+
+
+## Workflows
+Workflows and tips to help you manage your thesis like a pro.
+
+# Meetings
+Keep notes during meetings, and keep files organized and shareable.
+- [Effective Meeting Minutes](https://gaiku.io/blog/effective-meeting-minutes)
+
+## Searching
 Searching for information can be a daunting task.
 
 ### Searching techniques
@@ -64,14 +73,9 @@ Searching for information can be a daunting task.
 
 <!-- add other awesome searching resources here, pudn and the like might be interesting... -->
 
-## Workflows
-Keep notes during meetings, and keep files organized and shareable.
-
-- [Effective Meeting Minutes](https://gaiku.io/blog/effective-meeting-minutes)
+## Indexing and managing information
 - [Trello](https://trello.com/) - A web-based kanban-like project management application.
 - mindmaps
-
-<!-- minitoc here pointing to tools -->
 
 
 ## Artifacts
@@ -86,13 +90,6 @@ Making experiments easily replayable might be of help to your advisors to crack 
 - [documentation]() - document where you can :)
     - [how to document your code responsibly](https://medium.com/@andrewgoldis/how-to-document-source-code-responsibly-2b2f303aa525) -
 
-#### Searching and indexing code
-
-- [Elixir](https://github.com/bootlin/elixir) - a lightweight source referencer for C/C++ projects
-- [OpenGrok](https://github.com/oracle/opengrok) - source code/cross referencing engine
-- [silversearcher-ag](https://github.com/ggreer/the_silver_searcher) - ditch your grep, silversearcher is a blazing fast code searching tool
-- [cscope](http://cscope.sourceforge.net/) - tool for browsing C source code
-- [ctags](http://ctags.sourceforge.net/) - generate [``tag files``](http://ctags.sourceforge.net/whatis.html) for different programming languages
 
 ### Data
 
@@ -197,6 +194,13 @@ Student mental health resources.
 
 ### Backups
 
+### Searching and indexing code
+
+- [Elixir](https://github.com/bootlin/elixir) - a lightweight source referencer for C/C++ projects
+- [OpenGrok](https://github.com/oracle/opengrok) - source code/cross referencing engine
+- [silversearcher-ag](https://github.com/ggreer/the_silver_searcher) - ditch your grep, silversearcher is a blazing fast code searching tool
+- [cscope](http://cscope.sourceforge.net/) - tool for browsing C source code
+- [ctags](http://ctags.sourceforge.net/) - generate [``tag files``](http://ctags.sourceforge.net/whatis.html) for different programming languages
 
 ### Remote Control
 Check out your long running experiments
