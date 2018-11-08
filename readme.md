@@ -29,6 +29,7 @@
   * [Benchmarking](#benchmarking)
 - [Writing](#writing)
   * [Scientific writing](#scientific-writing)
+  * [Writer's block](#writers-block)
   * [Spell-check](#spell-check)
   * [Latex](#latex)
   * [Graphics](#graphics)
@@ -65,6 +66,8 @@ Searching for information can be a daunting task.
 #### Searching techniques
 - [google dorks](https://exposingtheinvisible.org/guides/google-dorking/) - _dorking_, is a powerful technique to query search engines
 - [+Fravia's search lores](http://search.lores.eu/indexo.htm) - information is outdated, but still a valuable resource for _searchers_ to understand the web
+  + [Feed the search engines with synonyms](http://search.lores.eu/sonof_01.htm) - _"broaden your search results by using synonyms for words you are unsure about"_
+  + [The weird ways of searching and the weird findings](http://search.lores.eu/bg_weird.htm) - _"broaden your search results by using synonyms for words you are unsure about"_
 
 
 #### Searching through academic material
