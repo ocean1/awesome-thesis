@@ -67,8 +67,7 @@ Searching for information can be a daunting task.
 - [google dorks](https://exposingtheinvisible.org/guides/google-dorking/) - _dorking_, is a powerful technique to query search engines
 - [+Fravia's search lores](http://search.lores.eu/indexo.htm) - information is outdated, but still a valuable resource for _searchers_ to understand the web
   + [Feed the search engines with synonyms](http://search.lores.eu/sonof_01.htm) - _"broaden your search results by using synonyms for words you are unsure about"_
-  + [The weird ways of searching and the weird findings](http://search.lores.eu/bg_weird.htm) - _"broaden your search results by using synonyms for words you are unsure about"_
-
+  + [The weird ways of searching and the weird findings](http://search.lores.eu/bg_weird.htm) - explore the web differently
 
 #### Searching through academic material
 - [Google scholar](http://scholar.google.it) - your first place to go when looking for papers and patents ``Stand on the shoulders of giants``
