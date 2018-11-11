@@ -107,8 +107,8 @@ Making experiments easily replayable might be of help to your advisors to crack 
 
 #### Obtainig a dataset
 - [Scraping techniques]()
-  - [Beginner guide with Beautiful SOUP](https://www.analyticsvidhya.com/blog/2015/10/beginner-guide-web-scraping-beautiful-soup-python/)
-
+  - [Beginner guide with Beautiful SOUP](https://www.analyticsvidhya.com/blog/2015/10/beginner-guide-web-scraping-beautiful-soup-python/) -  Beautiful Soup is a python library for pulling data out of HTML and XML files
+  - [Selenium with Python](https://selenium-python.readthedocs.io/) - Selenium with Python libary allows your script to interact with the website
 
 ## Experiments
 Be proactive, carefully pick your next steps, don't be afraid of proposing _and defending_ different solutions.
