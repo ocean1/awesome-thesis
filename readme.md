@@ -13,6 +13,7 @@
 <!-- toc -->
 
 - [Workflows](#workflows)
+  * [Research Ideas](#research-ideas)
   * [Meetings](#meetings)
   * [Searching](#searching)
     + [Searching techniques](#searching-techniques)
@@ -61,6 +62,9 @@
 Workflows and tips to help you manage your thesis like a pro.
 
 - [Applying Agile Methodologies to Design and Programming](http://www.cs.tlu.ee/teemad/get_file.php?id=198) - you can apply agile methodologies to many things ;)
+### Research Ideas
+
+- [How to come up with new research ideas](https://www.slideshare.net/jbhuang/how-to-come-up-with-new-research-ideas-4005840)
 
 ### Meetings
 <!-- add something on how to effectively communicate what you are doing -->
@@ -79,6 +83,8 @@ Searching for information can be a daunting task.
 #### Searching through academic material
 - [Google scholar](http://scholar.google.it) - your first place to go when looking for papers and patents ``Stand on the shoulders of giants``
 - [How to read a paper](http://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf) - powerful tips to understand papers, and save time.
+- [Efficient reading of papers in science and technology](https://www.cs.columbia.edu/~hgs/netbib/efficientReading.pdf)
+
 
 <!-- add other awesome searching resources here, pudn and the like might be interesting... -->
 
