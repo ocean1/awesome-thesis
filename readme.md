@@ -153,8 +153,11 @@ Running benchmarks is a delicate part of your thesis, these resources will help 
 - [Latex Tutorial](https://www.um.edu.mt/__data/assets/pdf_file/0004/171373/LaTeX_Tutorial.pdf)
 
 ### Graphics
+Use high resolution scalar images (PNG), or vectorial formats (SVG/PDF) for images included in your thesis.
+
 - [Tikz](http://www.texample.net/tikz/) [![Tikz][awesome]](https://github.com/xiaohanyu/awesome-tikz)
 - [draw.io](https://www.draw.io/) - When Tikz doesn't work out, draw.io might save you
+- [The Noun Project] - ``Icons for everything`` with permissive licenses
 
 ### Books
 - [BUGS in Writing](https://www.amazon.com/BUGS-Writing-Revised-Guide-Debugging/dp/020137921X) - debug your writing skills
